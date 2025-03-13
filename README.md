@@ -27,13 +27,13 @@
 >> - Language : python3
 >> - Skill : Django, Django-rest-framework, aws
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> [프로젝트 상세 설명(Back-end)](https://github.com/englishsolution/englishsolution_backend)  
 >
 >> Front-end
 >> - Language : javascript
 >> - Skill : React.js
 >>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> [프로젝트 상세 설명(Front-end)](https://github.com/englishsolution/englishsolution_frontend)
 
 <br />
 
@@ -48,7 +48,7 @@
 >> - Language : java11, sql
 >> - Skill : Spring-framework, mySQL
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> [프로젝트 상세 설명(Back-end)](https://github.com/hera1228/book_store)  
 
 <br />
 
