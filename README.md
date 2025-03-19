@@ -1,14 +1,13 @@
 # 📜 나예은 
 
-> 나예은(Yeaun Na) -
+> 나예은(Yeaun Na) - hera1228 포트폴리오
 
 <br />
 
-# 👋 Intro
+# 👋 Skill
 
-> !  
-> !  
-> !
+### ✔️Back-end
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow"><img src="https://img.shields.io/badge/MySql-orange?style=for-the-badge&logo=MySql&logoColor=white"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"><img src="https://img.shields.io/badge/Django-indigo?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=black"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"><img src="https://img.shields.io/badge/Sourcetree-yellowgreen?style=for-the-badge&logo=Sourcetree&logoColor=green"><img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=C&logoColor=orange">
 
 <br />
 
@@ -53,5 +52,4 @@
 <br />
 
 
-Skill : Django, Django-rest-framework, mySQL, oracle, spring, spring-boot
 
