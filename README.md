@@ -50,6 +50,17 @@
 >> [프로젝트 상세 설명(Back-end)](https://github.com/hera1228/book_store)  
 
 <br />
+# 🎸 etc
 
+- 이메일 : gad122838@gmail.com
+- 블로그 : <a href="https://lahera.tistory.com/">
+  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
+  </a>
+- 깃허브 : <a href="https://github.com/hera1228">
+  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+  </a>
+- 노션 :<a href="https://www.notion.so/Problem-Solving-1bcc8cd0e55280048bf4d640535f1933">
+  <img src="https://github.com/user-attachments/assets/72a2f731-ddd6-432f-ab64-ebd71535fb13" height="28px" style="margin-top: 10px" />
+  </a>
 
 
