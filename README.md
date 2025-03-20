@@ -50,6 +50,8 @@
 >> [프로젝트 상세 설명(Back-end)](https://github.com/hera1228/book_store)  
 
 <br />
+<br />
+
 # 🎸 etc
 
 - 이메일 : gad122838@gmail.com
