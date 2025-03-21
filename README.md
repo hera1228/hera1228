@@ -26,7 +26,7 @@
 >> - Language : python3
 >> - Skill : Django, Django-rest-framework, aws
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/englishsolution/englishsolution_backend)  
+>> [프로젝트 상세 설명(Back-end)](https://github.com/hera1228/englishsolution_backend)  
 >
 >> Front-end
 >> - Language : javascript
