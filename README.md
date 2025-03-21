@@ -61,7 +61,7 @@
 - 깃허브 : <a href="https://github.com/hera1228">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
-- 알고리즘 공부 :<a href="https://www.notion.so/Problem-Solving-1bcc8cd0e55280048bf4d640535f1933?pvs=4">
+- 알고리즘 공부 :<a href="https://tame-fireman-e88.notion.site/Problem-Solving-1bcc8cd0e55280048bf4d640535f1933">
   <img src="https://github.com/user-attachments/assets/72a2f731-ddd6-432f-ab64-ebd71535fb13" height="28px" style="margin-top: 10px" />
   </a>
 
